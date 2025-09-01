@@ -10,10 +10,6 @@
 
 Je suis un étudiant ingénieur passionné par le **développement web**, les **technologies émergentes** et les **systèmes intelligents**. Créatif, motivé et toujours prêt à relever de nouveaux défis, j'aime concevoir des solutions innovantes et performantes. Actuellement, je recherche un **stage PFA** pour juillet et août afin de mettre mes compétences au service de projets concrets.
 
-- 🎓 **Formation** : Cycle d'ingénieur en Logiciels et Systèmes Intelligents
-- 🌟 **Objectif** : Contribuer à des projets innovants et approfondir mes compétences techniques
-- 💡 **Qualités** : Curieux, adaptable, et orienté vers l'apprentissage continu
-
 ---
 
 ## 💻 Compétences Techniques
@@ -69,38 +65,6 @@ Je suis un étudiant ingénieur passionné par le **développement web**, les **
 
 ---
 
-## 🌟 Projets Réalisés
-
-### 🚗 **Application Web de Vente de Voitures** (Angular, TypeScript)
-- **Description** : Plateforme complète pour une agence de vente de voitures avec interface administrateur et espace client.
-- **Technologies** : 
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-
-### 🛍️ **Site E-commerce** (Shopify)
-- **Description** : Site web pour un club d'avantages avec intégration de systèmes de paiement et gestion de catalogue.
-- **Technologies** : 
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify">
-
-### 📝 **Formulaire d'Inscription FSTT** (PHP, MySQL)
-- **Description** : Système d'inscription aux filières de la FSTT avec génération de documents via PHPmailer, FPDF et JPGraphe.
-- **Technologies** : 
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-
-### 📊 **Gestion de Projet** (PHP POO, JavaScript)
-- **Description** : Plateforme de gestion de projets avec tableau de bord interactif pour optimiser la collaboration d'équipe.
-- **Technologies** : 
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-
-### 🍽️ **Gestion de Restaurant** (Symfony, PostgreSQL)
-- **Description** : Solution digitale pour la gestion des réservations, plats, tables et utilisateurs avec interface responsive.
-- **Technologies** : 
-  <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-
----
 
 ## 📫 Contactez-moi
 
@@ -118,7 +82,3 @@ Je suis un étudiant ingénieur passionné par le **développement web**, les **
 
 ---
 
-<div align="center">
-  <p>⭐ <strong>Explorez mes repositories et contactez-moi pour toute opportunité de collaboration !</strong> ⭐</p>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</div>
