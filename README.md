@@ -1,31 +1,23 @@
+<div align="center">
 # 👋 Bonjour, je suis Salah Eddine Khazri
 
 **Développeur Web Full-Stack | Étudiant Ingénieur en Logiciels et Systèmes Intelligents**
+</div>
 
-📍 Casablanca, Maroc  
-📧 salahkhazri917@gmail.com  
-📱 +212 616-120396  
-🔗 [LinkedIn](https://www.linkedin.com/in/khazri-salah-eddine-b42070294/)
-
----
 
 ## 🚀 À Propos de Moi
 
 Étudiant passionné en cycle d'ingénieur, spécialisé en développement web et technologies émergentes. Je suis motivé, créatif et adaptable, toujours à la recherche de nouveaux défis techniques et opportunités d'apprentissage. Actuellement à la recherche d'un stage PFA pour les mois de juillet et août.
 
-## 🎓 Formation
-
-| Période | Formation | Établissement |
-|---------|-----------|---------------|
-| 2024-2027 | Cycle d'Ingénieur en Logiciels et Systèmes Intelligents | FST Tanger |
-| 2023-2024 | Licence en Informatique, Réseau & Multimédia | FST Mohammedia |
-| 2021-2023 | Deust Mathématiques-Informatiques-Physiques | FST Mohammedia |
-| 2020-2021 | Baccalauréat en Sciences Physiques | Lycée Mohamed VI, Casablanca |
-
 ## 💻 Stack Technique
 
 ### 🛠️ Langages de Programmation
 <div align="center">
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,bootstrap" alt="Frontend Skills" />
+</p>
+
   
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
