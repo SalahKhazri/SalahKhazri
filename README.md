@@ -1,43 +1,25 @@
 <div align="center">
-  <h1 id="greeting">👋 Bonjour, je suis <span style="color:#0077B5">Salah Eddine Khazri</span></h1>
-  <h3 id="subtitle">💻 Développeur Web Full-Stack | 🎓 Étudiant Ingénieur</h3>
 
-  <div id="badges" style="margin-top:20px;">
-    <img src="https://img.shields.io/badge/Passionn%C3%A9%20par%20l'innovation-0077B5?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Passionné"/>
-    <img src="https://img.shields.io/badge/Always%20Learning-28A745?style=for-the-badge&logo=bookstack&logoColor=white" alt="Learning"/>
-    <img src="https://img.shields.io/badge/Open%20Source%20Enthusiast-FF6F00?style=for-the-badge&logo=github&logoColor=white" alt="Open Source"/>
-  </div>
+  <h1>👋 Bonjour, je suis <span style="color:#0077B5">Salah Eddine Khazri</span></h1>
+
+  <h3>💻 Développeur Web Full-Stack | 🎓 Étudiant Ingénieur en Logiciels et Systèmes Intelligents</h3>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Passionn%C3%A9%20par%20l'innovation-0077B5?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Passionné par l'innovation"/>
+
+  <img src="https://img.shields.io/badge/Always%20Learning-28A745?style=for-the-badge&logo=bookstack&logoColor=white" alt="Always Learning"/>
+
+  <img src="https://img.shields.io/badge/Open%20Source%20Enthusiast-FF6F00?style=for-the-badge&logo=github&logoColor=white" alt="Open Source"/>
+
+  <br/><br/>
+
+  <p>
+    🚀 Intéressé par le développement moderne, le Cloud, DevOps et les architectures logicielles.<br/>
+    💡 Toujours motivé à apprendre, créer et relever de nouveaux défis.
+  </p>
+
 </div>
-
-<script>
-  // Animation du texte : fade-in et slide
-  const greeting = document.getElementById('greeting');
-  const subtitle = document.getElementById('subtitle');
-  const badges = document.getElementById('badges');
-
-  // Fonction d'animation simple
-  function fadeIn(element, delay) {
-    element.style.opacity = 0;
-    element.style.transition = 'opacity 1s ease, transform 1s ease';
-    element.style.transform = 'translateY(20px)';
-    setTimeout(() => {
-      element.style.opacity = 1;
-      element.style.transform = 'translateY(0)';
-    }, delay);
-  }
-
-  fadeIn(greeting, 500);
-  fadeIn(subtitle, 1500);
-  fadeIn(badges, 2500);
-
-  // Animation des badges : légère rotation
-  const badgeImgs = badges.querySelectorAll('img');
-  badgeImgs.forEach((img, index) => {
-    img.style.transition = 'transform 0.5s ease';
-    img.addEventListener('mouseenter', () => img.style.transform = 'rotate(10deg) scale(1.1)');
-    img.addEventListener('mouseleave', () => img.style.transform = 'rotate(0deg) scale(1)');
-  });
-</script>
 
 
 
