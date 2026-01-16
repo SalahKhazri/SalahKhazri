@@ -76,6 +76,9 @@ Je suis un étudiant ingénieur passionné par le **développement web**, les **
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" title="Flask"/>
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" title="Spring Boot"/>
+
+
 </div>
 
 <br/>
@@ -102,8 +105,6 @@ Je suis un étudiant ingénieur passionné par le **développement web**, les **
 
 <div align="center">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" width="60" title="Shopify"/>
-
   <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="60" title="Design Patterns"/>
 
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="60" title="UML"/>
@@ -112,9 +113,14 @@ Je suis un étudiant ingénieur passionné par le **développement web**, les **
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" title="Docker"/>
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="60" title="Jenkins"/>
+
+  <img src="https://cdn-icons-png.flaticon.com/512/825/825561.png" width="60" title="Shopify"/>
+
 </div>
 
 <br/>
+
 
 
 ---
@@ -136,9 +142,7 @@ Je suis un étudiant ingénieur passionné par le **développement web**, les **
     <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="60" title="Téléphone"/>
   </a>
 
-  <a href="https://wa.me/212616120396" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="60" title="WhatsApp"/>
-  </a>
+  
 
 </div>
 
