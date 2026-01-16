@@ -1,8 +1,26 @@
 <div align="center">
-  <h1>👋 Bonjour, je suis Salah Eddine Khazri</h1>
-  <h3>Développeur Web Full-Stack | Étudiant Ingénieur en Logiciels et Systèmes Intelligents</h3>
-  <img src="https://img.shields.io/badge/Passionn%C3%A9%20par%20l'innovation-0077B5?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Passionné par l'innovation">
+
+  <h1>👋 Bonjour, je suis <span style="color:#0077B5">Salah Eddine Khazri</span></h1>
+
+  <h3>💻 Développeur Web Full-Stack | 🎓 Étudiant Ingénieur en Logiciels et Systèmes Intelligents</h3>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Passionn%C3%A9%20par%20l'innovation-0077B5?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Passionné par l'innovation"/>
+
+  <img src="https://img.shields.io/badge/Always%20Learning-28A745?style=for-the-badge&logo=bookstack&logoColor=white" alt="Always Learning"/>
+
+  <img src="https://img.shields.io/badge/Open%20Source%20Enthusiast-FF6F00?style=for-the-badge&logo=github&logoColor=white" alt="Open Source"/>
+
+  <br/><br/>
+
+  <p>
+    🚀 Intéressé par le développement moderne, le Cloud, DevOps et les architectures logicielles.<br/>
+    💡 Toujours motivé à apprendre, créer et relever de nouveaux défis.
+  </p>
+
 </div>
+
 
 ---
 
