@@ -39,59 +39,111 @@ Je suis un étudiant ingénieur passionné par le **développement web**, les **
 <br/>
 
 
-### 🌐 Technologies Web
+<h3 align="center">🌐 Technologies Web</h3>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" title="HTML5"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" title="CSS3"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" title="Bootstrap"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" title="Tailwind CSS"/>
+
 </div>
 
-### ⚡ Frameworks & Bibliothèques
+<br/>
+
+
+<h3 align="center">⚡ Frameworks & Bibliothèques</h3>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60" title="Angular"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" title="React"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60" title="Django"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="60" title="Symfony"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="60" title="Laravel"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" title="Node.js"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" title="Express.js"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" title="Flask"/>
+
 </div>
 
-### 🗄️ Bases de Données
+<br/>
+
+
+<h3 align="center">🗄️ Bases de Données</h3>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" title="MySQL"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" title="PostgreSQL"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" title="MongoDB"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="60" title="Redis"/>
+
 </div>
 
-### 🔧 Outils & Concepts
+<br/>
+
+
+<h3 align="center">🔧 Outils & Concepts</h3>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify">
-  <img src="https://img.shields.io/badge/Design_Patterns-FF6F00?style=flat-square" alt="Design Patterns">
-  <img src="https://img.shields.io/badge/UML-FF6F00?style=flat-square" alt="UML">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" width="60" title="Shopify"/>
+
+  <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="60" title="Design Patterns"/>
+
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="60" title="UML"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" title="Git"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" title="Docker"/>
+
 </div>
+
+<br/>
+
 
 ---
 
 
-## 📫 Contactez-moi
+<h2 align="center">📫 Contactez-moi</h2>
 
 <div align="center">
+
   <a href="mailto:salahkhazri917@gmail.com">
-    <img src="https://img.shields.io/badge/Email-salahkhazri917@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="60" title="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/khazri-salah-eddine-b42070294/">
-    <img src="https://img.shields.io/badge/LinkedIn-Khazri_Salah_Eddine-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+
+  <a href="https://www.linkedin.com/in/khazri-salah-eddine-b42070294/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" title="LinkedIn"/>
   </a>
+
   <a href="tel:+212616120396">
-    <img src="https://img.shields.io/badge/Phone-%2B212616120396-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone">
+    <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="60" title="Téléphone"/>
   </a>
+
+  <a href="https://wa.me/212616120396" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="60" title="WhatsApp"/>
+  </a>
+
 </div>
+
+<br/>
+
 
 ---
 
