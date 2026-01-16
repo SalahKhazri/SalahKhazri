@@ -115,7 +115,8 @@ Je suis un étudiant ingénieur passionné par le **développement web**, les **
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="60" title="Jenkins"/>
 
-  <img src="https://cdn-icons-png.flaticon.com/512/825/825561.png" width="60" title="Shopify"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" width="60" title="Shopify"/>
+
 
 </div>
 
