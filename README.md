@@ -21,8 +21,6 @@
 
 </div>
 
-
-
 ---
 
 ## 🚀 À Propos de Moi
